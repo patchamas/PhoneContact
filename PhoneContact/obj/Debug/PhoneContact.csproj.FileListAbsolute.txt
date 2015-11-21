@@ -1,0 +1,2 @@
+E:\CPE\PhoneContact\PhoneContact\bin\Debug\PhoneContact.exe.config
+C:\Users\Patchamas\Documents\GitHub\PhoneContact\PhoneContact\bin\Debug\PhoneContact.exe.config
